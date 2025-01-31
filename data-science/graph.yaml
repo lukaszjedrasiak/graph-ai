@@ -1,0 +1,17 @@
+uuid: 65500b6d-f5f7-4453-9172-bf05419b9253
+type: permanent
+visibility: public
+
+created: 2025-01-07T21:53:56.002+00:00
+modified: 2025-01-31T20:21:14.357+00:00
+
+canvas:
+    x: 110
+    y: -131
+    size: 16
+    fill: --blue
+    stroke: null
+ 
+links:
+    parent:
+        - 45218f71-5d8b-45c8-9d77-4779a09970de
