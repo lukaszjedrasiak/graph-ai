@@ -15,7 +15,7 @@ graph:
         fill: --blue
         stroke: null
 
-    links:
+    edges:
         parent:
             - 45218f71-5d8b-45c8-9d77-4779a09970de
 ---
