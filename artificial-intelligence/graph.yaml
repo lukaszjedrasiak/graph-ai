@@ -12,7 +12,4 @@ canvas:
     size: 16
     fill: --blue
     stroke: null
-   
-# label defines the role of the linked file
-links:
     
