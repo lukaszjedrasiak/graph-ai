@@ -12,6 +12,7 @@ graph:
     canvas:
         x: 174
         y: 0
+        library: material
         size: 16
         fill: --blue
         stroke: null
