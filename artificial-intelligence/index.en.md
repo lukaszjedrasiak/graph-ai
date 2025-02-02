@@ -1,5 +1,6 @@
 ---
 title: artificial intelligence
+slug: artificial-intelligence
 ---
 
 **Artificial intelligence is a field of science that aims to create a computer program capable of mimicking human thought processes (intelligence).**
