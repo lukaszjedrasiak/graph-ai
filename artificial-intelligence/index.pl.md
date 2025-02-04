@@ -14,7 +14,7 @@ Wybrane procesy myślowe składające się na ludzką inteligencję:
 
 Wszystkie wymienione wyżej procesy jesteśmy w stanie skutecznie naśladować dzięki dużym modelom językowym (LLM – Large Language Models) i stworzonym na ich kanwie architekturom: RAG (_Retrieval Augmented Generation_) oraz Agentom.
 
-![Sztuczna inteligencja jako dziedzina nauki](ai-fields-of-science_250131.jpg "Sztuczna inteligencja jako dziedzina nauki")
+![Sztuczna inteligencja jako dziedzina nauki](ai-fields-of-science_250204.jpg "Sztuczna inteligencja jako dziedzina nauki")
 
 Aby w pełni wykorzystać możliwości stojące za dużymi modelami językowymi warto znać technologie, które przyczyniły się do ich powstania:
 * przetwarzanie języka naturalnego (NLP – _Natural Language Processing_),

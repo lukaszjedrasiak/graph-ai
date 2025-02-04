@@ -14,7 +14,7 @@ Selected thought processes that make up human intelligence:
 
 We are able to effectively mimic all of the above-mentioned processes thanks to Large Language Models (LLM) and the architectures created on their basis: RAG (_Retrieval Augmented Generation_) and Agents.
 
-![Artificial Intelligence as a Field of Science](ai-fields-of-science_250131.jpg "Artificial Intelligence as a Field of Science")
+![Artificial Intelligence as a Field of Science](ai-fields-of-science_250204.jpg "Artificial Intelligence as a Field of Science")
 
 To take full advantage of the capabilities behind large-scale language models, it is useful to know the technologies that have contributed to their development:
 * natural language processing (NLP),
