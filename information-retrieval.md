@@ -12,7 +12,8 @@ graph:
     canvas:
         x: 174
         y: 0
-        library: material
+        library: material-symbols-rounded
+        icon: article
         size: 16
         fill: --blue
         stroke: null
