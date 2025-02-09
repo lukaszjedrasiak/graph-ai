@@ -8,10 +8,12 @@ modified: 2025-01-31T20:21:14.357+00:00
 canvas:
     x: 110
     y: -131
+    library: material-symbols-rounded
+    icon: article
     size: 16
     fill: --blue
     stroke: null
  
-links:
+edges:
     parent:
         - 45218f71-5d8b-45c8-9d77-4779a09970de
