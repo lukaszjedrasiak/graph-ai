@@ -8,7 +8,8 @@ modified: 2025-01-05T23:39:51.654+00:00
 canvas:
     x: -139
     y: 137
-    library: material
+    library: material-symbols-rounded
+    icon: article
     size: 16
     fill: --blue
     stroke: null
