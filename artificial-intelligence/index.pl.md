@@ -1,6 +1,6 @@
 ---
-title: sztuczna inteligencja
-slug: sztuczna-inteligencja
+_title: sztuczna inteligencja
+_slug: sztuczna-inteligencja
 ---
 
 **Sztuczna inteligencja to dziedzina nauki, której celem jest stworzenie programu komputerowego potrafiącego naśladować ludzkie procesy myślowe (inteligencję).**
