@@ -17,6 +17,7 @@
 `add` – new vertex
 `update` – changes in existing vertex
 `rename` – change of the vertex name (file for 'simple' or folder for 'compound')
+`delete` – remove note
 
 ## examples
 
