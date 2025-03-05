@@ -21,6 +21,7 @@
 
 `docs` – any changes in project documentation (e.g. CONTRIBUTING.md, LICENSE.md, README.md)
 `git` – changes related to git configuration (e.g. .gitignore)
+`.research`
 
 ## examples
 

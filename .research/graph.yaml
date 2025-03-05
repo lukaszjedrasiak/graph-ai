@@ -1,1 +1,6 @@
-language: en
+uuid: 4920bb10-2b4f-47d8-af4d-9d6fe0c37992
+languages: 
+    default: en
+    all:
+        - en
+        - pl
