@@ -1,0 +1,19 @@
+_uuid: a38a6ce9-422a-4ef8-bee5-ed7900aa5f1f
+_graph: 4920bb10-2b4f-47d8-af4d-9d6fe0c37992
+_type: permanent
+_visibility: public
+disabled: true
+_created: 2025-01-05T23:40:02.572Z
+_modified: 2025-03-01T21:33:25.654Z
+_canvas:
+  x: -200
+  y: -300
+  library: material-symbols-rounded
+  icon: article
+  size: 16
+  fill: --primary
+  stroke: null
+_edges:
+  parent:
+    - cd10642c-a885-44ad-b990-9521739e4975
+  sibling: []
