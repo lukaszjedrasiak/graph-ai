@@ -86,7 +86,7 @@ To keep your fork updated:
 git checkout main
 git fetch upstream
 git rebase upstream/main
-git push origin main
+git push --force origin main
 
 git checkout private
 git rebase main
