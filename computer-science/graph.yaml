@@ -1,13 +1,13 @@
 _uuid: 883b085d-b898-4211-acdc-b9df9b9e984d
 _graph: 4920bb10-2b4f-47d8-af4d-9d6fe0c37992
 _type: permanent
-_visibility: private
+_visibility: public
 disabled: true
 _created: 2025-01-05T23:41:57.110Z
 _modified: 2025-03-01T21:33:33.609Z
 _canvas:
-  x: 0
-  y: -300
+  x: 200
+  y: 200
   library: material-symbols-rounded
   icon: article
   size: 16
