@@ -6,14 +6,14 @@ disabled: true
 _created: 2025-03-09T19:29:04.124Z
 _modified: 2025-03-09T19:29:04.124Z
 _canvas:
-    x: 0
-    y: -200
-    library: material-symbols-rounded
-    icon: article
-    size: 16
-    fill: --primary
-    stroke: null
+  x: 0
+  y: -200
+  library: material-symbols-rounded
+  icon: article
+  size: 16
+  fill: --primary
+  stroke: null
 _edges:
-    parent:
-        - bbc50954-6c56-47af-8868-f6591f77b18b
-    sibling: []
+  - target: bbc50954-6c56-47af-8868-f6591f77b18b
+    label: parent
+    weight: 1

@@ -14,6 +14,6 @@ _canvas:
   fill: --primary
   stroke: null
 _edges:
-  parent:
-    - a38a6ce9-422a-4ef8-bee5-ed7900aa5f1f
-  sibling: []
+  - target: a38a6ce9-422a-4ef8-bee5-ed7900aa5f1f
+    label: parent
+    weight: 1

@@ -1,6 +1,6 @@
 ---
-_title: generative-ai
-_slug: generative-ai
+_title: generatywna sztuczna inteligencja
+_slug: generatywna-sztuczna-inteligencja
 ---
 
 ...

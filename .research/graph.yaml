@@ -4,3 +4,29 @@ languages:
     all:
         - en
         - pl
+vertices:
+    default:
+        fleeting:
+            library: material-symbols-rounded
+            icon: sticky_note_2
+            size: 16
+            fill: --muted
+            stroke: null
+        permanent:
+            library: material-symbols-rounded
+            icon: article
+            size: 16
+            fill: --primary
+            stroke: null
+        literature:
+            library: material-symbols-rounded
+            icon: book_2
+            size: 16
+            fill: --accent
+            stroke: null
+        source:
+            library: material-symbols-rounded
+            icon: attachment
+            size: 16
+            fill: --info
+            stroke: null
