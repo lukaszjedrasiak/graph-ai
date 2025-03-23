@@ -26,7 +26,7 @@ Podstawowym zadaniem każdego robota jest wykonywanie poleceń swojego właścic
 
 Dobrze by było, gdyby robot potrafił także odpowiadać na zadane pytania, np. czy wymieniał już dzisiaj wodę króliczkowi, albo czy zamówił karmę dla piesków. Za to odpowiedzialni są specjaliści pracujący z **dużymi modelami językowymi** (_LLM – large language models_), czyli złożonymi programami generującymi treści do złudzenia przypominające te stworzone przez człowieka.
 
-## piętro "zarządzanie pamięcią"
+## piętro "zarządzanie wiedzą"
 
 Robot, któremu przed każdym posiłkiem trzeba by przypominać, że Reksio je tylko z zielonej miseczki, a Filemon z niebieskiej, byłby mało pomocny. Urządzenie musi więc zapamiętywać różne informacje, a następnie przywoływać je z pamięci w odpowiednim momencie – bezbłędnie oraz w miarę szybko. 
 
